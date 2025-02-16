@@ -47,8 +47,7 @@ I’m passionate about solving problems! With a strong technical foundation, I e
     </a>
 </div>
 
-<!-- ### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a> -->
+### Employer?
+> <a href="https://drive.google.com/file/d/1GcXjHM3NPlCKUMGh66aPFgDQb5bG97BZ/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A3D1C6&height=120&section=footer" alt="footer"/>
